@@ -1,6 +1,10 @@
 # Prompt-Based Generative Cloth Editing  
 ### CLIPSeg + Stable Diffusion Inpainting
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/shivasamkumar/Prompt_Based_Cloth_editting/blob/main/Prompt_based_Genrative_cloth_editting.ipynb)  
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
+https://github.com/shivasamkumar/Prompt_Based_Cloth_editting/blob/main/Prompt_based_Genrative_cloth_editting.ipynb
 
 Turn *any* garment photo into a canvas for rapid, prompt-driven design exploration.  
 This Colab/Notebook pipeline combines **CLIPSeg** for free-form semantic masking with **Stable Diffusion** inpainting to generate realistic cloth variations from natural-language prompts.
